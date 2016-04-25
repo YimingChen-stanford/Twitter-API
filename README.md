@@ -2,7 +2,7 @@
 
 ## For throttling
 
--Use restify build-in method restify.throttle() to limit using of resource by IP
+- Use restify build-in method restify.throttle() to limit using of resource by IP
 
 ## For security 
 
