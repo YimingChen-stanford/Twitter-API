@@ -1,0 +1,15 @@
+{
+  "name": "Twitter-like",
+  "version": "1.0.0",
+  "description": "this webServer provide some twitter like status update APIs",
+  "main": "webServer.js",
+  "scripts": {
+    "jshint": "./node_modules/.bin/jshint --config .jshintrc --exclude=node_modules,test . || exit 0"
+  },
+  "author": "Yiming Chen <yimingc@stanford.edu>",
+  "dependencies": {
+    "restify": "^2.5",
+    "jshint": "^2.9.1-rc2",
+    "mongoose": "^4.3.4"
+  }
+}
